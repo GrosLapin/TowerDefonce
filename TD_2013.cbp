@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TD_2013" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TestSFML2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="E:/Lib/SFML-2.0/include" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics-d" />
+					<Add library="sfml-window-d" />
+					<Add library="sfml-system-d" />
+					<Add directory="E:/Lib/SFML-2.0/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TestSFML2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Attaquant.cpp" />
+		<Unit filename="Attaquant.hpp" />
+		<Unit filename="AttaqueZone.cpp" />
+		<Unit filename="AttaqueZone.hpp" />
+		<Unit filename="Bonus.cpp" />
+		<Unit filename="Bonus.hpp" />
+		<Unit filename="Case.cpp" />
+		<Unit filename="Case.hpp" />
+		<Unit filename="Cible.cpp" />
+		<Unit filename="Cible.hpp" />
+		<Unit filename="Constructible.cpp" />
+		<Unit filename="Constructible.hpp" />
+		<Unit filename="DetecteurCible.cpp" />
+		<Unit filename="DetecteurCible.hpp" />
+		<Unit filename="Effet.cpp" />
+		<Unit filename="Effet.hpp" />
+		<Unit filename="Enum.cpp" />
+		<Unit filename="Enum.hpp" />
+		<Unit filename="Fonction_generales.cpp" />
+		<Unit filename="Fonction_generales.hpp" />
+		<Unit filename="Fonction_graphique.cpp" />
+		<Unit filename="Fonction_graphique.hpp" />
+		<Unit filename="Map.cpp" />
+		<Unit filename="Map.hpp" />
+		<Unit filename="ModeSelectionCible.cpp" />
+		<Unit filename="ModeSelectionCible.hpp" />
+		<Unit filename="MonTimer.cpp" />
+		<Unit filename="MonTimer.hpp" />
+		<Unit filename="Monstre.cpp" />
+		<Unit filename="Monstre.h" />
+		<Unit filename="PathFinder.cpp" />
+		<Unit filename="PathFinder.hpp" />
+		<Unit filename="SelecteurCible.cpp" />
+		<Unit filename="SelecteurCible.hpp" />
+		<Unit filename="Tour.cpp" />
+		<Unit filename="Tour.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
