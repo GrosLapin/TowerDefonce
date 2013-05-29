@@ -1207,9 +1207,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="-2706.4834"
-     inkscape:cy="-3580.5011"
+     inkscape:zoom="0.5"
+     inkscape:cx="-3126.8954"
+     inkscape:cy="-3083.8297"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1226,7 +1226,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2621,7 +2621,7 @@
            height="277.18585"
            width="107.48023"
            id="rect4017" /></flowRegion><flowPara
-         id="flowPara4019"></flowPara></flowRoot>    <g
+         id="flowPara4019" /></flowRoot>    <g
        id="g9650"
        transform="translate(1046.1564,430.84271)"
        inkscape:export-filename="/users/iasi/morterol/Bureau/gitHub/Documentation/ShemaDeClasse/Shema.png"
@@ -3142,7 +3142,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DiamondL);marker-end:none"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DiamondL);marker-end:url(#DiamondL)"
        d="m -4716.8551,3954.2177 -0.3485,233.206"
        id="path11349"
        inkscape:connector-type="polyline"
