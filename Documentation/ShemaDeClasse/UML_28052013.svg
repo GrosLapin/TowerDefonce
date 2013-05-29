@@ -14,8 +14,11 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="UML_28052013.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="UML_28052013.svg"
+   inkscape:export-filename="C:\Users\Martin\Desktop\UML_28052013.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <marker
@@ -193,27 +196,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3864-4-0"
-       id="linearGradient3870-7-5"
-       x1="264.25977"
-       y1="984.24957"
-       x2="985.60156"
-       y2="984.24957"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3864-4-0">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3866-0-28" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3868-9-6" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3864-1-2"
        id="linearGradient3870-76-0"
        x1="264.25977"
@@ -379,27 +361,6 @@
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
          id="stop3868-6-7-3-4" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3864-4-0-6-1-6"
-       id="linearGradient3870-7-5-2-5-9"
-       x1="264.25977"
-       y1="984.24957"
-       x2="985.60156"
-       y2="984.24957"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3864-4-0-6-1-6">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3866-0-28-0-2-5" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3868-9-6-1-0-1" />
     </linearGradient>
     <marker
        inkscape:stockid="Arrow1Lend"
@@ -599,27 +560,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3864-4-0-6-7-1"
-       id="linearGradient3870-7-5-2-9-9"
-       x1="264.25977"
-       y1="984.24957"
-       x2="985.60156"
-       y2="984.24957"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3864-4-0-6-7-1">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3866-0-28-0-6-2" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3868-9-6-1-2-5" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3864-1-2-5-5-8"
        id="linearGradient3870-76-0-6-9-0"
        x1="264.25977"
@@ -659,27 +599,6 @@
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
          id="stop3868-6-7-1-4-6" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3864-4-0-6-7-1-6"
-       id="linearGradient3870-7-5-2-9-9-1"
-       x1="264.25977"
-       y1="984.24957"
-       x2="985.60156"
-       y2="984.24957"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3864-4-0-6-7-1-6">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3866-0-28-0-6-2-3" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3868-9-6-1-2-5-3" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -778,27 +697,6 @@
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
          id="stop3868-6-7-1-8" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3864-4-0-6-7-3"
-       id="linearGradient3870-7-5-2-9-7"
-       x1="264.25977"
-       y1="984.24957"
-       x2="985.60156"
-       y2="984.24957"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3864-4-0-6-7-3">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3866-0-28-0-6-0" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3868-9-6-1-2-3" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -1207,16 +1105,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="-3126.8954"
-     inkscape:cy="-3083.8297"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="2791.8844"
+     inkscape:cy="-2132.3883"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1615"
-     inkscape:window-height="1026"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -1577,21 +1475,7 @@
            height="240.41631"
            width="379.00925"
            id="rect4226" /></flowRegion><flowPara
-         id="flowPara4228" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3825-4-3"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-1122.854,227.63783)"><flowRegion
-         id="flowRegion3827-8-78"
-         style="fill:url(#linearGradient3870-7-5);fill-opacity:1"><rect
-           id="rect3829-8-8"
-           width="681.5802"
-           height="39.573116"
-           x="198.23907"
-           y="779.77277"
-           style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1"
-         id="flowPara3843-2-2">Attaquant</flowPara></flowRoot>    <g
+         id="flowPara4228" /></flowRoot>    <g
        id="g5617"
        transform="translate(-2803.0058,4496.2875)"
        inkscape:export-filename="/users/iasi/morterol/Bureau/gitHub/Documentation/ShemaDeClasse/Shema.png"
@@ -1712,20 +1596,6 @@
            id="rect3829-2-3-8-7" /></flowRegion><flowPara
          style="font-size:28px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara5006-9-1" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3825-4-3-7-7-4"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(302.48627,1778.1819)"><flowRegion
-         id="flowRegion3827-8-78-3-7-9"
-         style="fill:url(#linearGradient3870-7-5-2-5-9);fill-opacity:1"><rect
-           id="rect3829-8-8-3-8-9"
-           width="842.78333"
-           height="39.087833"
-           x="252.23907"
-           y="783.77277"
-           style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1"
-         id="flowPara3843-2-2-5-3-2">EffetOverTime</flowPara></flowRoot>    <flowRoot
        transform="translate(208,0)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6279"
@@ -2109,20 +1979,6 @@
            style="font-size:28px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara5006-9-8">int range</flowPara></flowRoot>    </g>
     <flowRoot
-       transform="translate(-1882.4148,1148.1993)"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot3825-4-3-7-2-5"
-       xml:space="preserve"><flowRegion
-         style="fill:url(#linearGradient3870-7-5-2-9-9);fill-opacity:1"
-         id="flowRegion3827-8-78-3-9-7"><rect
-           style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1"
-           y="779.77277"
-           x="198.23907"
-           height="39.916264"
-           width="861.85437"
-           id="rect3829-8-8-3-4-6" /></flowRegion><flowPara
-         id="flowPara3843-2-2-5-1-6"
-         style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1">Constructible</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7514"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2134,34 +1990,6 @@
            x="-1556"
            y="1994.3622" /></flowRegion><flowPara
          id="flowPara7520" /></flowRoot>    <flowRoot
-       transform="translate(-1784.925,1678.7018)"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot3825-4-3-7-2-5-5"
-       xml:space="preserve"><flowRegion
-         style="fill:url(#linearGradient3870-7-5-2-9-9-1);fill-opacity:1"
-         id="flowRegion3827-8-78-3-9-7-0"><rect
-           style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1"
-           y="779.77277"
-           x="198.23907"
-           height="43.916264"
-           width="755.85437"
-           id="rect3829-8-8-3-4-6-3" /></flowRegion><flowPara
-         id="flowPara3843-2-2-5-1-6-6"
-         style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1">DetecteurCible</flowPara></flowRoot>    <flowRoot
-       transform="translate(-172.4148,2696.1993)"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot3825-4-3-7-2-1"
-       xml:space="preserve"><flowRegion
-         style="fill:url(#linearGradient3870-7-5-2-9-7);fill-opacity:1"
-         id="flowRegion3827-8-78-3-9-1"><rect
-           style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1"
-           y="779.77277"
-           x="198.23907"
-           height="41.330475"
-           width="658.20764"
-           id="rect3829-8-8-3-4-3" /></flowRegion><flowPara
-         id="flowPara3843-2-2-5-1-2"
-         style="font-size:40px;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1">Map</flowPara></flowRoot>    <flowRoot
        transform="translate(-189.5371,3186.4584)"
        xml:space="preserve"
        id="flowRoot8826"
