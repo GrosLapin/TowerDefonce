@@ -13,6 +13,8 @@ class Constructible;
 class PathFinder;
 class Tour;
 class Case ;
+
+// test modif
 class Monstre : public Cible, public Attaquant
 {
     public:
